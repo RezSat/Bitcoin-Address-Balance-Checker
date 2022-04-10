@@ -10,15 +10,3 @@ Python Bitcoin Balance checker. This is a simple program that can Find the Total
 2] `python3 balancechecker.py` or `python balancechecker.py` or `py -3 balancechecker.py`
 
 3] ` Enter a BTC address`
-
-Donations :
-```
-  PATREON : patreon.com/yehanwasura
-  PAYPAL  : paypal.me/cyberrex599
-  BTC     : bc1qykc9chxvl75g3njmz7crrjj0uw59m5sxzzdsz7
-```
-Contacts : 
-```
-  Email : contact@yehanwasura.ml / yehantest@gmail.com
-  Instagram : https://instagram.com/official.yehanwasura.lk
-```
